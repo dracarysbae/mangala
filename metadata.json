@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Mangala",
+  "description": "A visually stunning, realistic implementation of the traditional Turkish Mangala game. Features local PvP, AI opponents powered by Gemini, and an interactive tutorial.",
+  "requestFramePermissions": []
+}
